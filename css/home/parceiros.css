@@ -35,6 +35,10 @@
 }
 
 @media (max-width:800px) {
+  .parceiros li {
+  display: flex;
+  padding: 32px;
+  }
   .parceiros {
     padding-bottom: 60px;
   }
